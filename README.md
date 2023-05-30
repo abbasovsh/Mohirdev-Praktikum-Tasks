@@ -1,1 +1,1 @@
-# Mohirdev-Praktikum-Tasks
+# Mohirdev Praktikum Tasks
