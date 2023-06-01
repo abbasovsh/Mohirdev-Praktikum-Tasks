@@ -33,11 +33,8 @@ pip install streamlit fastai pillow
 
 To run the BBI Project, follow these steps:
 
-1. Clone the repository:
+1. Download "BBI Project" folder:
 
-```
-git clone https://github.com/shamsiddinabbasov/project/bbi-project.git
-```
 
 2. Navigate to the project directory:
 
