@@ -4,15 +4,15 @@ This project focuses on classifying images into three categories: bear, bird, or
 
 ## Table of Contents
 
-- [Prerequisites]()
-- [Getting Started]()
-- [Model Training]()
-- [Contributing]()
-- [Program View]()
-- [Acknowledgments]()
-- [Resources]()
-- [License]()
-- [Contact]()
+- [Prerequisites](https://github.com/abbasovsh/Mohirdev-Praktikum-Tasks/tree/main/Projects/BBI%20Project/BBI%20Project#prerequisites)
+- [Getting Started](https://github.com/abbasovsh/Mohirdev-Praktikum-Tasks/tree/main/Projects/BBI%20Project/BBI%20Project#getting-started)
+- [Model Training](https://github.com/abbasovsh/Mohirdev-Praktikum-Tasks/tree/main/Projects/BBI%20Project/BBI%20Project#model-training)
+- [Contributing](https://github.com/abbasovsh/Mohirdev-Praktikum-Tasks/tree/main/Projects/BBI%20Project/BBI%20Project#contributing)
+- [Program View](https://github.com/abbasovsh/Mohirdev-Praktikum-Tasks/tree/main/Projects/BBI%20Project/BBI%20Project#program-view)
+- [Acknowledgments](https://github.com/abbasovsh/Mohirdev-Praktikum-Tasks/tree/main/Projects/BBI%20Project/BBI%20Project#acknowledgments)
+- [Resources](https://github.com/abbasovsh/Mohirdev-Praktikum-Tasks/tree/main/Projects/BBI%20Project/BBI%20Project#resources)
+- [License](https://github.com/abbasovsh/Mohirdev-Praktikum-Tasks/tree/main/Projects/BBI%20Project/BBI%20Project#license)
+- [Contact](https://github.com/abbasovsh/Mohirdev-Praktikum-Tasks/tree/main/Projects/BBI%20Project/BBI%20Project#contact)
 
 ## Prerequisites
 
@@ -39,7 +39,7 @@ To run the BBI Project, follow these steps:
 2. Navigate to the project directory:
 
 ```
-cd bbi-project
+cd "BBI Project"
 ```
 
 3. Set up the virtual environment (optional but recommended):
