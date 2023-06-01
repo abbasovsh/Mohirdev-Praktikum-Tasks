@@ -1,0 +1,2 @@
+fast.ai==2.7.12
+streamlit==1.22.0
