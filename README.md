@@ -2,8 +2,8 @@
 
 ## Assignments
 
-1. [Airfare Price Prediction]()
-2. [Predicting Airline Passenger Satisfaction]()
+1. [Airfare Price Prediction](https://github.com/abbasovsh/Mohirdev-Praktikum-Tasks/tree/main/Assignments/Airfare%20Price%20Prediction)
+2. [Predicting Airline Passenger Satisfaction](https://github.com/abbasovsh/Mohirdev-Praktikum-Tasks/tree/main/Assignments/Predicting%20Airline%20Passenger%20Satisfaction)
 3. [Diagnosis of Pneumonia]()
 
 ## Projects
